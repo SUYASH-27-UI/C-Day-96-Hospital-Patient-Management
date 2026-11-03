@@ -1,0 +1,5 @@
+101 Rahul 25 Fever 1500.00
+102 Amit 32 Cold 800.00
+103 Priya 28 Allergy 2200.00
+104 Sneha 40 Cough 1200.00
+105 Rohan 35 Fever 1800.00
